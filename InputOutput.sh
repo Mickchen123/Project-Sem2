@@ -1,0 +1,3 @@
+$echo $count
+$echo $mybin
+
